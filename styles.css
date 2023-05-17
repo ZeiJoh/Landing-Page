@@ -1,0 +1,23 @@
+.Header{
+    background-color: #1F2937;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+Header h2 {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.Quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: light;
+    color: #1F2937;
+}
+
